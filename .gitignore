@@ -1,0 +1,16 @@
+# Lixo de editor e sistema
+tempCodeRunnerFile.py
+*.code-workspace
+__pycache__/
+*.py[cod]
+.vscode/
+desktop.ini
+Thumbs.db
+~$*
+
+# Ambientes virtuais e artefatos de build (PyInstaller)
+.venv/
+venv/
+**/build/
+**/dist/
+**/*.spec
