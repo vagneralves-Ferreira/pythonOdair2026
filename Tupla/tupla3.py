@@ -1,7 +1,7 @@
 # 3. Tuplas são imutáveis
 print("3. TUPLAS SÃO IMUTÁVEIS:\n")
 
-tupla = ("Vagner", "157.359.498-96", "vferrer78@gmail.com")
+tupla = ("Fulano", "123.456.789-00", "fulano@email.com")
 print(f"Tupla original: {tupla}\n")
 
 print("Tentando modificar:")

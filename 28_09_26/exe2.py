@@ -1,6 +1,5 @@
 import math
 
-1010
 def calcular_area_circulo(raio):
     """Calcula a área de um círculo dado o raio."""
     return math.pi * (raio ** 2)
